@@ -1,0 +1,1 @@
+This project delivers a streamlined Excel-based data analysis workbook, highlighting data ingestion, cleaning, and visualization using pivot tables and charts. Users will find an interactive dashboard with slicers, enabling dynamic exploration of trends and categorical insights. 
